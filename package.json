@@ -1,0 +1,17 @@
+{
+  "name": "tesla-vehicles",
+  "version": "1.0.0",
+  "description": "a simple app for visualizing tesla vehicles",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Garrett",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1"
+  }
+}
